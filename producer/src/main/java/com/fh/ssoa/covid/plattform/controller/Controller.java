@@ -96,8 +96,8 @@ public class Controller {
     //Method for generating the HTTP-Headers needed for rapid-api
     public HttpEntity createHttpEntity(){
         HttpHeaders headers = new HttpHeaders();
-        headers.add("x-rapidapi-host","XXXXXXXXXcovid-19-data.p.rapidapi.com");
-        headers.add("X-RapidAPI-Key","8a7023409mc209mr935e5bcp1b8c40jsn5f77d5579550");
+        headers.add("x-rapidapi-host","certzuii");
+        headers.add("X-RapidAPI-Key","vbgtnhtb");
         HttpEntity entity = new HttpEntity(headers);
         return entity;
     }
