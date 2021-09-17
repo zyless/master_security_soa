@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class CommonConstant {
     // variables that are used globally
     public static final String https = "https://";
-    public static final String queryString = "rapidapi.p.rapidapi.com/country?name=";
+    public static final String queryString = "rapidapi.xxxx.xxxx.com/country?name=";
 
 
 
